@@ -3,4 +3,5 @@ Criamos um código para testar o problema sobre a sessão, porém não conseguim
 <br>O código esta disponível na branch master.
 <br>
 <br>Segue um video demonstrando como voce pode testar essa aplicação
-<br>URL para teste: https://youtu.be/PcoCWAnJ9KU
+<br>URL para teste: https://202202195642.bateaquihost.com.br/swagger/index.html
+<br>URL do video: https://youtu.be/PcoCWAnJ9KU
